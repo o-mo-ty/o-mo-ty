@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**o-mo-ty/o-mo-ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/o-mo-ty">
+    <img height="20" src="https://komarev.com/ghpvc/?username=o-mo-ty" />
+  </a>
+  <a href="https://github.com/o-mo-ty">
+    <img height="20" src="https://img.shields.io/github/followers/o-mo-ty?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/omo_taku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/omo_taku/posts.svg" />
+  </a>
+  <a href="http://qiita.com/omo_taku">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/omo_taku/contributions.svg" />
+  </a>
+</p>
